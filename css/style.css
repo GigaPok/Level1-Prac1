@@ -227,5 +227,7 @@ ul a:hover {
 }
 ul a {
     display: inline-block;
-
+}
+address {
+    text-align: end;
 }
